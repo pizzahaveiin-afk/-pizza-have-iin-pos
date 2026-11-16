@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#b91c1c"/>
+<circle cx="256" cy="256" r="184" fill="#fff7ed"/>
+<path d="M130 170 Q256 110 382 170 L300 370 Q256 405 212 370 Z" fill="#f59e0b" stroke="#7c2d12" stroke-width="12"/>
+<path d="M130 170 Q256 110 382 170" fill="none" stroke="#7c2d12" stroke-width="18" stroke-linecap="round"/>
+<circle cx="215" cy="215" r="18" fill="#dc2626"/><circle cx="290" cy="235" r="18" fill="#dc2626"/><circle cx="255" cy="305" r="18" fill="#dc2626"/>
+<text x="256" y="445" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="40" fill="#fff">HAVE IIN</text>
+</svg>
